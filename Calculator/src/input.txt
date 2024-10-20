@@ -1,0 +1,8 @@
+# testing...
+DEFINE a 4
+PUSH a
+DEFINE b 5
+PUSH b
++
+SQRT
+PRINT
