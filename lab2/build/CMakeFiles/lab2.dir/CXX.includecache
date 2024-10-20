@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mgbdd/template/c++/lab2/src/GameOfLife.cpp
+GameOfLife.hpp
+/home/mgbdd/template/c++/lab2/src/GameOfLife.hpp
+
+/home/mgbdd/template/c++/lab2/src/GameOfLife.hpp
+iostream
+-
+vector
+-
+fstream
+-
+exception
+-
+

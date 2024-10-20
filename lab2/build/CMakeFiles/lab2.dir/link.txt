@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/lab2.dir/src/main.cpp.o CMakeFiles/lab2.dir/src/GameOfLife.cpp.o  -o lab2  lib/libgtest_main.a lib/libgtest.a -lpthread 
