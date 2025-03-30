@@ -1,3 +1,3 @@
 # oop-labs
-these are the objective oriented programming labs that i've done in nsu 
+oop labs that i've done in nsu 
 c++ and java
